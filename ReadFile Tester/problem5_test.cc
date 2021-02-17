@@ -1,4 +1,5 @@
-/* Copyright 2021 CSCE 240 */
+/* Copyright 2021 CSCE 240 
+ * Adapted by William Hobbs */
 
 #include <exam1/problem5.h>
 #include <exam1/problem5.h>  // test correct header constuction
